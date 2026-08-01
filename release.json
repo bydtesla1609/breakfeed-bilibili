@@ -1,6 +1,6 @@
 {
   "version": "0.4.4",
-  "download": "/breakfeed-bilibili-v0.4.4.zip",
+  "download": "breakfeed-bilibili-v0.4.4.zip",
   "notes": [
     "修复旧搜索接口持续返回 HTTP 412 导致的大面积受限",
     "迁移到 B 站综合检索接口并正确解析视频栏目",
